@@ -1,6 +1,6 @@
 Tugas CRUD - Data Dosen Pembimbing
 
-Ini tugas individu minggu 2 mata kuliah Sistem Informasi Tugas Akhir dan Skripsi (Modul B). Website ini lanjutan dari studi kasus minggu lalu, yang tadinya cuma HTML CSS biasa sekarang saya sambungkan ke database MySQL supaya datanya bisa ditambah, diubah, dan dihapus.
+Website CRUD data dosen pembimbing menggunakan PHP dan MySQL (XAMPP), tugas individu minggu 2.
 
 Dibuat dengan PHP, MySQL, dan XAMPP.
 
@@ -20,7 +20,7 @@ hapus.php : proses hapus data
 style.css : tampilan
 database.sql : file buat bikin database dan tabelnya
 
-Cara jalanin
+Cara Menjalankan
 
 Nyalakan Apache dan MySQL di XAMPP.
 Buka phpMyAdmin (localhost/phpmyadmin), masuk ke tab SQL, lalu jalankan isi file database.sql.
