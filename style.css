@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(65, 71, 71);
+    color: rgb(255, 213, 0);
+    margin: 15px;
+    font-family: Arial, sans-serif;
+}
+
+h1, p {
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    color: black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+.tombol {
+    background-color: rgb(190, 198, 198);
+    color: black;
+    border: 10px solid rgb(151, 29, 29);
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: 10px auto;
+    display: block;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.kotak-form {
+    background-color: rgb(249, 245, 245);
+    color: black;
+    border: 2px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: rgb(255, 213, 0);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tombol-kembali {
+    color: rgb(212, 0, 255);
+    text-decoration: underline;
+}
+
+.aksi-edit {
+    color: blue;
+}
+
+.aksi-hapus {
+    color: red;
+}
